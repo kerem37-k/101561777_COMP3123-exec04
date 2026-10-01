@@ -1,0 +1,28 @@
+{
+  "name": "101561777_comp3123-exec04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerem37-k/101561777_COMP3123-exec04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kerem37-k/101561777_COMP3123-exec04/issues"
+  },
+  "homepage": "https://github.com/kerem37-k/101561777_COMP3123-exec04#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
